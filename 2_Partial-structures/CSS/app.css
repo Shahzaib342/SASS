@@ -1,0 +1,21 @@
+.base {
+  text-align: right;
+}
+
+#footer {
+  background-color: black;
+}
+
+#header {
+  position: fixed;
+}
+
+#button {
+  color: red;
+}
+
+.navbar {
+  color: white;
+}
+
+/*# sourceMappingURL=app.css.map */
